@@ -1,2 +1,3 @@
 # laravel-ant-api
-后台API
+
+前台VUE地址：https://github.com/jsogn/laravel-ant-admin
